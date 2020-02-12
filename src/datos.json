@@ -1,0 +1,475 @@
+{
+  "tienda": [
+    {
+      "id": "1",
+      "nombre": "Tienda uno",
+      "logo": "/images/logo1.jpg",
+      "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "sucursal": [
+        {
+          "ubicacion": "Ubicacion 1",
+          "productos": [
+            {
+              "precio": 50000,
+              "nombre": "Producto a",
+              "imagen": "ruta",
+              "cantidad": 100,
+              "categoria": "Categoria 1"
+            },
+            {
+              "precio": 30000,
+              "nombre": "Producto b",
+              "imagen": "ruta",
+              "cantidad": 200,
+              "categoria": "Categoria 2"
+            },
+            {
+              "precio": 20000,
+              "nombre": "Producto c",
+              "imagen": "ruta",
+              "cantidad": 50,
+              "categoria": "Categoria 3"
+            },
+            {
+              "precio": 40000,
+              "nombre": "Producto d",
+              "imagen": "ruta",
+              "cantidad": 100,
+              "categoria": "Categoria 4"
+            },
+            {
+              "precio": 60000,
+              "nombre": "Producto e",
+              "imagen": "ruta",
+              "cantidad": 200,
+              "categoria": "Categoria 5"
+            }
+          ]
+        },
+        {
+          "ubicacion": "Ubicacion 2",
+          "productos": [
+            {
+              "precio": 50000,
+              "nombre": "Producto a",
+              "imagen": "ruta",
+              "cantidad": 100,
+              "categoria": "Categoria 1"
+            },
+            {
+              "precio": 30000,
+              "nombre": "Producto b",
+              "imagen": "ruta",
+              "cantidad": 200,
+              "categoria": "Categoria 2"
+            },
+            {
+              "precio": 20000,
+              "nombre": "Producto a",
+              "imagen": "ruta",
+              "cantidad": 50,
+              "categoria": "Categoria 3"
+            },
+            {
+              "precio": 40000,
+              "nombre": "Producto b",
+              "imagen": "ruta",
+              "cantidad": 100,
+              "categoria": "Categoria 5"
+            },
+            {
+              "precio": 60000,
+              "nombre": "Producto a",
+              "imagen": "ruta",
+              "cantidad": 200,
+              "categoria": "Categoria 5"
+            },
+            {
+              "precio": 50000,
+              "nombre": "Producto a",
+              "imagen": "ruta",
+              "cantidad": 100,
+              "categoria": "Categoria 4"
+            },
+            {
+              "precio": 30000,
+              "nombre": "Producto b",
+              "imagen": "ruta",
+              "cantidad": 200,
+              "categoria": "Categoria 1"
+            },
+            {
+              "precio": 20000,
+              "nombre": "Producto a",
+              "imagen": "ruta",
+              "cantidad": 50,
+              "categoria": "Categoria 2"
+            }
+          ]
+        },
+        {
+          "ubicacion": "Ubicacion 3",
+          "productos": [
+            {
+              "precio": 50000,
+              "nombre": "Producto a",
+              "imagen": "ruta",
+              "cantidad": 100,
+              "categoria": "Categoria 1"
+            },
+            {
+              "precio": 30000,
+              "nombre": "Producto b",
+              "imagen": "ruta",
+              "cantidad": 200,
+              "categoria": "Categoria 2"
+            },
+            {
+              "precio": 60000,
+              "nombre": "Producto a",
+              "imagen": "ruta",
+              "cantidad": 200,
+              "categoria": "Categoria 5"
+            },
+            {
+              "precio": 50000,
+              "nombre": "Producto a",
+              "imagen": "ruta",
+              "cantidad": 100,
+              "categoria": "Categoria 4"
+            },
+            {
+              "precio": 30000,
+              "nombre": "Producto b",
+              "imagen": "ruta",
+              "cantidad": 200,
+              "categoria": "Categoria 1"
+            },
+            {
+              "precio": 20000,
+              "nombre": "Producto a",
+              "imagen": "ruta",
+              "cantidad": 50,
+              "categoria": "Categoria 2"
+            }
+          ]
+        }
+      ],
+      "total": 1000
+    },
+    {
+      "id": "2",
+      "nombre": "Tienda dos",
+      "logo": "/images/logo2.jpg",
+      "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "sucursal": [
+        {
+          "ubicacion": "Ubicacion 4",
+          "productos": [
+            {
+              "precio": 50000,
+              "nombre": "Producto a",
+              "imagen": "ruta",
+              "cantidad": 100,
+              "categoria": "Categoria 1"
+            },
+            {
+              "precio": 30000,
+              "nombre": "Producto b",
+              "imagen": "ruta",
+              "cantidad": 200,
+              "categoria": "Categoria 2"
+            },
+            {
+              "precio": 20000,
+              "nombre": "Producto c",
+              "imagen": "ruta",
+              "cantidad": 50,
+              "categoria": "Categoria 3"
+            },
+            {
+              "precio": 40000,
+              "nombre": "Producto d",
+              "imagen": "ruta",
+              "cantidad": 100,
+              "categoria": "Categoria 4"
+            },
+            {
+              "precio": 60000,
+              "nombre": "Producto e",
+              "imagen": "ruta",
+              "cantidad": 200,
+              "categoria": "Categoria 5"
+            }
+          ]
+        },
+        {
+          "ubicacion": "Ubicacion 5",
+          "productos": [
+            {
+              "precio": 50000,
+              "nombre": "Producto a",
+              "imagen": "ruta",
+              "cantidad": 100,
+              "categoria": "Categoria 1"
+            },
+            {
+              "precio": 30000,
+              "nombre": "Producto b",
+              "imagen": "ruta",
+              "cantidad": 200,
+              "categoria": "Categoria 2"
+            },
+            {
+              "precio": 20000,
+              "nombre": "Producto a",
+              "imagen": "ruta",
+              "cantidad": 50,
+              "categoria": "Categoria 3"
+            },
+            {
+              "precio": 40000,
+              "nombre": "Producto b",
+              "imagen": "ruta",
+              "cantidad": 100,
+              "categoria": "Categoria 5"
+            },
+            {
+              "precio": 60000,
+              "nombre": "Producto a",
+              "imagen": "ruta",
+              "cantidad": 200,
+              "categoria": "Categoria 5"
+            },
+            {
+              "precio": 50000,
+              "nombre": "Producto a",
+              "imagen": "ruta",
+              "cantidad": 100,
+              "categoria": "Categoria 4"
+            },
+            {
+              "precio": 30000,
+              "nombre": "Producto b",
+              "imagen": "ruta",
+              "cantidad": 200,
+              "categoria": "Categoria 1"
+            },
+            {
+              "precio": 20000,
+              "nombre": "Producto a",
+              "imagen": "ruta",
+              "cantidad": 50,
+              "categoria": "Categoria 2"
+            }
+          ]
+        },
+        {
+          "ubicacion": "Ubicacion 6",
+          "productos": [
+            {
+              "precio": 50000,
+              "nombre": "Producto a",
+              "imagen": "ruta",
+              "cantidad": 100,
+              "categoria": "Categoria 1"
+            },
+            {
+              "precio": 30000,
+              "nombre": "Producto b",
+              "imagen": "ruta",
+              "cantidad": 200,
+              "categoria": "Categoria 2"
+            },
+            {
+              "precio": 60000,
+              "nombre": "Producto a",
+              "imagen": "ruta",
+              "cantidad": 200,
+              "categoria": "Categoria 5"
+            },
+            {
+              "precio": 50000,
+              "nombre": "Producto a",
+              "imagen": "ruta",
+              "cantidad": 100,
+              "categoria": "Categoria 4"
+            },
+            {
+              "precio": 30000,
+              "nombre": "Producto b",
+              "imagen": "ruta",
+              "cantidad": 200,
+              "categoria": "Categoria 1"
+            },
+            {
+              "precio": 20000,
+              "nombre": "Producto a",
+              "imagen": "ruta",
+              "cantidad": 50,
+              "categoria": "Categoria 2"
+            }
+          ]
+        }
+      ],
+      "total": 600
+    },
+    {
+      "id": "3",
+      "nombre": "Tienda tres",
+      "logo": "/images/logo3.png",
+      "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "sucursal": [
+        {
+          "ubicacion": "Ubicacion 7",
+          "productos": [
+            {
+              "precio": 50000,
+              "nombre": "Producto a",
+              "imagen": "ruta",
+              "cantidad": 100,
+              "categoria": "Categoria 1"
+            },
+            {
+              "precio": 30000,
+              "nombre": "Producto b",
+              "imagen": "ruta",
+              "cantidad": 200,
+              "categoria": "Categoria 2"
+            },
+            {
+              "precio": 20000,
+              "nombre": "Producto c",
+              "imagen": "ruta",
+              "cantidad": 50,
+              "categoria": "Categoria 3"
+            },
+            {
+              "precio": 40000,
+              "nombre": "Producto d",
+              "imagen": "ruta",
+              "cantidad": 100,
+              "categoria": "Categoria 4"
+            },
+            {
+              "precio": 60000,
+              "nombre": "Producto e",
+              "imagen": "ruta",
+              "cantidad": 200,
+              "categoria": "Categoria 5"
+            }
+          ]
+        },
+        {
+          "ubicacion": "Ubicacion 8",
+          "productos": [
+            {
+              "precio": 50000,
+              "nombre": "Producto a",
+              "imagen": "ruta",
+              "cantidad": 100,
+              "categoria": "Categoria 1"
+            },
+            {
+              "precio": 30000,
+              "nombre": "Producto b",
+              "imagen": "ruta",
+              "cantidad": 200,
+              "categoria": "Categoria 2"
+            },
+            {
+              "precio": 20000,
+              "nombre": "Producto a",
+              "imagen": "ruta",
+              "cantidad": 50,
+              "categoria": "Categoria 3"
+            },
+            {
+              "precio": 40000,
+              "nombre": "Producto b",
+              "imagen": "ruta",
+              "cantidad": 100,
+              "categoria": "Categoria 5"
+            },
+            {
+              "precio": 60000,
+              "nombre": "Producto a",
+              "imagen": "ruta",
+              "cantidad": 200,
+              "categoria": "Categoria 5"
+            },
+            {
+              "precio": 50000,
+              "nombre": "Producto a",
+              "imagen": "ruta",
+              "cantidad": 100,
+              "categoria": "Categoria 4"
+            },
+            {
+              "precio": 30000,
+              "nombre": "Producto b",
+              "imagen": "ruta",
+              "cantidad": 200,
+              "categoria": "Categoria 1"
+            },
+            {
+              "precio": 20000,
+              "nombre": "Producto a",
+              "imagen": "ruta",
+              "cantidad": 50,
+              "categoria": "Categoria 2"
+            }
+          ]
+        },
+        {
+          "ubicacion": "Ubicacion 9",
+          "productos": [
+            {
+              "precio": 50000,
+              "nombre": "Producto a",
+              "imagen": "ruta",
+              "cantidad": 100,
+              "categoria": "Categoria 1"
+            },
+            {
+              "precio": 30000,
+              "nombre": "Producto b",
+              "imagen": "ruta",
+              "cantidad": 200,
+              "categoria": "Categoria 2"
+            },
+            {
+              "precio": 60000,
+              "nombre": "Producto a",
+              "imagen": "ruta",
+              "cantidad": 200,
+              "categoria": "Categoria 5"
+            },
+            {
+              "precio": 50000,
+              "nombre": "Producto a",
+              "imagen": "ruta",
+              "cantidad": 100,
+              "categoria": "Categoria 4"
+            },
+            {
+              "precio": 30000,
+              "nombre": "Producto b",
+              "imagen": "ruta",
+              "cantidad": 200,
+              "categoria": "Categoria 1"
+            },
+            {
+              "precio": 20000,
+              "nombre": "Producto a",
+              "imagen": "ruta",
+              "cantidad": 50,
+              "categoria": "Categoria 2"
+            }
+          ]
+        }
+      ],
+      "total": 600
+    }
+  ]
+}
